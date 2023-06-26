@@ -1,0 +1,16 @@
+"abb" 
+ ( q0, a )
+ ( q1, b )
+ ( q2, b )
+ ( q0, EPS )
+False
+
+"bbabab"
+ ( q0, b )
+ ( q0, b )
+ ( q0, a )
+ ( q1, b )
+ ( q2, a )
+ ( q3, b )
+ ( q3, EPS )
+True
